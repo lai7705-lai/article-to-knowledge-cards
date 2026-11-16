@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles and local text into study cards"
+  default_prompt: "Use $make-knowledge-cards to turn this article or local Markdown/TXT file into study cards."
